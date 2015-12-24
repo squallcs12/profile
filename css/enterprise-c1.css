@@ -1,23 +1,23 @@
 /*!
- *  Theme		     : Enterprise 
+ *  Theme		     : Enterprise
  *  Description  : CV Resume Template by themesforever.com
  *  Version      : 1.0
  *
  *	Resume styles:
- *	
+ *
  *	1.	GLOBAL STYLES
  *
  *	2.	LAYOUT DESIGN
- *		  2.1	WRAPPER ASIDE / Left		
+ *		  2.1	WRAPPER ASIDE / Left
  *		  2.2	WRAPPER SECTION / Right
  *
- *	3.	SECTIONS	
+ *	3.	SECTIONS
  *		  3.1	SECTION // ABOUT ME
  *		  3.2	SECTION // SKILLS
  *		  3.3	SECTION // EXPERIENCE AND EDUCATION
  *		  3.4	SECTION // MILESTONES
- *	
- *	4.	LAYOUT HEIGHT 100%	
+ *
+ *	4.	LAYOUT HEIGHT 100%
  *
  */
 
@@ -67,7 +67,7 @@ h6 {
 .text-primary {
   color: #262b37;
 }
-.text-secondary {
+.text-secondary, .text-secondary:hover {
   color: #00a69a;
 }
 .btn {
@@ -91,15 +91,15 @@ h6 {
  *	2.	LAYOUT DESIGN
  *		  2.1 WRAPPER ASIDE / Left
  *			//	header
- *				  //	img ->	Photo	
+ *				  //	img ->	Photo
  *				  //	h1	->	Nombre
  *				  //	h2 	->	Description
- * 
+ *
  *			//	nav
  *				  //	li a -> Social links
  *
  *			//	footer
- *				  //	TimForeman©2015	
+ *				  //	TimForeman©2015
  *
  *		  2.2 WRAPPER SECTION / Right
  *			    //	WRAPPER PADDING
@@ -207,7 +207,7 @@ h6 {
 /*!
  **********************************************************
  *
- *	3.	SECTIONS	
+ *	3.	SECTIONS
  *		  3.1	SECTION // ABOUT ME
  *		  3.2	SECTION // SKILLS
  *		  3.3	SECTION // EXPERIENCE AND EDUCATION
